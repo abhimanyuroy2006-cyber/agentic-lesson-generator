@@ -1,0 +1,911 @@
+[
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that RAG does NOT retrain or alter model weights; it only provides runtime context in the prompt.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Euclidean latent space with cosine similarity indices... multi-head attention queries",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "vector embeddings mapped across a Euclidean latent space"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that RAG does NOT retrain or alter model weights; it only provides runtime context in the prompt.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Euclidean latent space with cosine similarity indices... multi-head attention queries",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "vector embeddings mapped across a Euclidean latent space"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Euclidean latent space with cosine similarity indices... multi-head attention queries",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "vector embeddings mapped across a Euclidean latent space"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that RAG does NOT retrain or alter model weights; it only provides runtime context in the prompt.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Euclidean latent space with cosine similarity indices... multi-head attention queries",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "vector embeddings mapped across a Euclidean latent space"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add the 'Open-Book vs Closed-Book Exam' analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Euclidean latent space... second-order Taylor expansion / non-linear stochastic transformations",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense mathematical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy (such as exam study, kirana store, or library) to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy (such as exam study, kirana store, or library) to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "banana ",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "banana ",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "banana ",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "banana ",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "crow",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "crow",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "y",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "y",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "onion",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "onion",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "biryani",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, easy to read, uses proper definitions for jargon, and flows logically from concept to application and assessment. All checkpoints pass successfully.",
+    "violating_snippets": [],
+    "corrective_actions": ""
+  },
+  {
+    "attempt_number": 2,
+    "topic": "biryani",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is exceptionally well-structured, easy to understand, and accurately defines both culinary and technical concepts (such as RAG and algorithms). However, due to a strict heuristic signal mismatch ('Analogy Present: False'), the 'Teaches by Example' checkpoint fails under automated strict rubric guidelines.",
+    "violating_snippets": [],
+    "corrective_actions": "Address the heuristic flag discrepancy regarding the kitchen analogy by making the analogy explicitly labeled and prominent."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "mosquito",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, accurate, and easy to read, but fails the strict heuristic alignment for the 'teaches_by_example' checkpoint due to automated signal mismatch regarding the analogy.",
+    "violating_snippets": [
+      "Think of a mosquito like an uninvited guest at a wedding party."
+    ],
+    "corrective_actions": "Re-evaluate and format the analogy section to ensure strict compliance with heuristic detection signals for 'teaches_by_example'."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "mosquito",
+    "failed_checkpoints": [
+      "Teaches By Example",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The lesson successfully explains mosquito biology in simple, accessible language with good formatting and a quiz. However, it fails due to the inclusion of a forced, confusing, and out-of-context technical reference to RAG and model weights, which disrupts the teaching flow and violates natural pedagogical structure.",
+    "violating_snippets": [
+      "Just like an AI text tool called RAG does not retrain or change its main brain model weights, these smart camera systems only look at data to find patterns without changing how the world works!",
+      "*(Note: Just like an AI text tool called RAG does not retrain or change its main brain model weights, these smart camera systems only look at data to find patterns without changing how the world works!)*"
+    ],
+    "corrective_actions": "Remove the awkward parenthetical RAG and model-weight comparison from the AI career connection section.; Ensure any AI concepts introduced are naturally relevant and properly integrated without confusing technical jargon."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "toothbrush",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson successfully meets all educational rubric criteria, providing an accurate, well-structured, beginner-friendly explanation with proper analogies and explanations of technical terms.",
+    "violating_snippets": [],
+    "corrective_actions": ""
+  },
+  {
+    "attempt_number": 2,
+    "topic": "toothbrush",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, engaging, and well-structured, but it fails the automated heuristic check for 'Teaches by Example' due to signal mismatch.",
+    "violating_snippets": [
+      "Think of your kitchen after cooking a heavy meal like Biryani."
+    ],
+    "corrective_actions": "Ensure that the everyday analogy (kitchen/Biryani) is structured in a way that aligns with heuristic detection rules for the 'teaches_by_example' check."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "bath ",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The submitted content is not a lesson, but rather an error message prompting the user for a valid topic. Therefore, it fails nearly all pedagogical checkpoints.",
+    "violating_snippets": [
+      "⚠️ UNRECOGNIZED TOPIC: The input provided appears to be incomplete or just a single word (\"bath\").",
+      "Pooja and Rahul, please enter a real AI concept, tech tool, or subject (for example: RAG, ChatGPT, Python, or Machine Learning) so we can start building your high-demand tech career!",
+      "⚠️ UNRECOGNIZED TOPIC...",
+      "The input provided appears to be incomplete..."
+    ],
+    "corrective_actions": "Replace the error message with a complete, well-structured educational lesson on a valid technical concept.; Ensure all sentences are under 18 words to meet beginner-friendly guidelines.; Include a relatable everyday analogy and cover the key points: what it is, why it matters, and how it works."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "bath",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, well-structured, and easy to read, but it fails the strict 'teaches_by_example' checkpoint due to heuristic signal mismatch regarding the required everyday analogy integration.",
+    "violating_snippets": [
+      "Think about your school playground. After playing a hard game of football in the hot sun..."
+    ],
+    "corrective_actions": "Refine the playground football analogy to strictly align with the pedagogical format required for the teaches_by_example checkpoint."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "where to keep tv in table or floor",
+    "failed_checkpoints": [
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The lesson is well-written, simple, and follows formatting and linguistic constraints nicely. However, it fails on coherent teaching flow because comparing TV placement (table vs. floor) to AI and data storage is a weak and nonsensical conceptual bridge that does not authentically teach computer science principles.",
+    "violating_snippets": [
+      "thinking about space, safety, and placement is very similar to how we arrange data in computer science and Artificial Intelligence (AI)."
+    ],
+    "corrective_actions": "Replace the core topic of TV placement with a genuine computer science or data organization topic to make the AI and tech parallels meaningful and coherent."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "can we keep whater bottle in black hole",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, engaging, and scientifically accurate, but fails the strict heuristic check for 'Teaches by Example' due to signal mismatch.",
+    "violating_snippets": [
+      "A black hole is like a giant, super-powerful cosmic mixer-grinder."
+    ],
+    "corrective_actions": "Refine the kitchen analogy to ensure it strictly registers as a valid pedagogical analogy meeting all evaluation heuristic signals."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "can we keep whater bottle in black hole",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language"
+    ],
+    "why_it_failed": "The lesson is engaging, accurate, and follows a great structural flow using a kitchen analogy. However, it fails the strict sentence length constraint under 'beginner_friendly_language' due to long, complex sentences in the AI section.",
+    "violating_snippets": [
+      "For example, when building smart search tools using Retrieval-Augmented Generation (a smart AI method that fetches outside facts), the system searches external text data to answer questions without ever retraining or changing its core model weights (the learned brain parameters of the AI)."
+    ],
+    "corrective_actions": "Shorten all sentences in the Real-World Impact and Future Tech Learning section so that every single sentence is strictly under 18 words."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "bath",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "bath",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, well-structured, and easy to read, but it fails the 'teaches_by_example' checkpoint because it lacks a relatable everyday analogy or comparison.",
+    "violating_snippets": [],
+    "corrective_actions": "Include a clear everyday analogy or comparison (e.g., comparing skin to muddy shoes or sports gear) to satisfy the teaches_by_example requirement."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+    "violating_snippets": [
+      "retrains the entire neural network weights of the AI model... updates internal memory forever"
+    ],
+    "corrective_actions": "Clarify that the technique does NOT alter or retrain foundational model weights.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Clear, No Unexplained Jargon",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+    "violating_snippets": [
+      "Dense graduate academic jargon identified in text",
+      "Terms used without explanation: ['cosine similarity', 'k-nearest neighbors', 'latent space']",
+      "dense technical terms without motivation"
+    ],
+    "corrective_actions": "Replace academic math phrases with plain words and keep sentences under 18 words.; Add a relatable everyday Indian analogy to give the learner a clear mental model.; Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.; Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "Introduction to RAG",
+    "failed_checkpoints": [
+      "Teaches by Example",
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Add a relatable everyday Indian analogy to give the learner a clear mental model.; Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "bath",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, beginner-friendly, accurately grounded, and well-structured, but failed the strict heuristic check for 'teaches_by_example' due to metadata signaling.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure explicit alignment with heuristic signals regarding analogies."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "TEFFIN",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The submitted content is not a lesson, but rather an error message stating that the topic is unrecognized. It fails almost all pedagogical checkpoints including accuracy, sentence length limits, use of examples, coverage of key points, and teaching flow.",
+    "violating_snippets": [
+      "⚠️ UNRECOGNIZED TOPIC: The input provided appears to be random keyboard characters or an unknown word.",
+      "Please enter a real subject, concept, or object (for example: a bicycle, an onion, cricket, or an AI topic like RAG) so we can learn it together!",
+      "(for example: a bicycle, an onion, cricket, or an AI topic like RAG)",
+      "The input provided appears to be random keyboard characters or an unknown word.",
+      "Please enter a real subject, concept, or object..."
+    ],
+    "corrective_actions": "Provide an actual educational lesson for a recognized topic.; Ensure sentences average under 18 words.; Include a relatable everyday analogy.; Cover what the topic is, why it matters, and how it works with a clear pedagogical flow."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "TEFFIN",
+    "failed_checkpoints": [
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The provided text is an error message for an unrecognized topic rather than an educational lesson. As a result, it fails multiple structural checkpoints including sentence length limits, teaching by example, covering key points, and pedagogical flow.",
+    "violating_snippets": [
+      "The input provided, \"TEFFIN\", appears to be a typo or a non-standard word (perhaps you meant \"Tiffin\", the lunch box, or something else).",
+      "There is no recognized academic, scientific, or technological subject called \"TEFFIN\".",
+      "Please check your spelling and enter a real subject, concept, or object...",
+      "⚠️ **UNRECOGNIZED TOPIC**"
+    ],
+    "corrective_actions": "Provide a valid educational topic instead of an unrecognized keyword.; Ensure the average sentence length is strictly under 18 words.; Include a relatable everyday analogy to anchor understanding.; Cover What it is, Why it matters, and How it works."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "COSMO BAZAR",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The provided text is an error message/refusal rather than an educational lesson, failing multiple structural, length, and content checkpoints.",
+    "violating_snippets": [
+      "The input provided, 'COSMO BAZAR', appears to be a brand name... please enter a real subject",
+      "Please enter a real subject, concept, or object (for example: RAG, photosynthesis, gravity, or smartphones) so we can start your learning lesson!",
+      "⚠️ **UNRECOGNIZED TOPIC:**",
+      "⚠️ **UNRECOGNIZED TOPIC:**"
+    ],
+    "corrective_actions": "Generate actual educational content instead of a refusal message.; Ensure sentence lengths strictly average under 18 words.; Include an everyday analogy and cover what it is, why it matters, and how it works."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "COSMO BAZAR",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, well-structured, and easy to understand. However, it failed the 'teaches_by_example' checkpoint strictly due to the heuristic signal flag indicating the analogy was not detected as present by the evaluation system.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure explicit formatting or structural markers are used so that automated heuristic signals correctly recognize the everyday analogy."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "COSMO BAZAR",
+    "failed_checkpoints": [
+      "Accurate & Grounded",
+      "Beginner-Friendly Language",
+      "Teaches by Example",
+      "Covers Key Points",
+      "Coherent Teaching Flow"
+    ],
+    "why_it_failed": "The provided content is an error message rejecting the input topic rather than an educational lesson, failing multiple structural and pedagogical checkpoints.",
+    "violating_snippets": [
+      "The input provided, 'COSMO BAZAR', appears to be a brand name, a local store name, or an unrecognized phrase...",
+      "The input provided, **'COSMO BAZAR'**, appears to be a brand name, a local store name, or an unrecognized phrase that is not a standard general education topic, science concept, or known technology.",
+      "Please enter a real subject, concept, or object (like a bicycle, the solar system, or a computer) so we can start learning!",
+      "Please enter a real subject, concept, or object (like a bicycle, the solar system, or a computer) so we can start learning!"
+    ],
+    "corrective_actions": "Select a valid educational topic to teach.; Ensure sentence lengths average under 18 words.; Incorporate a relatable everyday analogy.; Cover the core key points: What it is, Why it matters, and How it works."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "COSMO BAZAR",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, easy to read, and covers all necessary core sections (What, Why, How). However, it fails the 'teaches_by_example' checkpoint due to the heuristic signal indicating that a robust everyday analogy is not effectively integrated to anchor the concept.",
+    "violating_snippets": [
+      "Imagine a busy local market street in your town."
+    ],
+    "corrective_actions": "Integrate a robust, continuous everyday analogy (such as a bustling market or store) to connect the abstract concepts of cosmic matter and energy exchange.; Ensure the heuristic detection confirms the presence of the analogy to satisfy all strict checkpoints."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "THUMB UPS",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, well-structured, and easy to read, but it fails the 'teaches_by_example' checkpoint due to conflicting heuristic signals regarding the presence of a formal analogy.",
+    "violating_snippets": [
+      "Think about a school sports day race."
+    ],
+    "corrective_actions": "Re-evaluate the heuristic signal for the analogy check or make the sports day analogy even more explicit and robust.; Ensure all automated auditing flags are synchronized with the lesson content."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "THUMB UPS",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, easy to read, and factually accurate, but it fails the 'teaches_by_example' checkpoint due to lacking a robust structural analogy.",
+    "violating_snippets": [
+      "Imagine you hit a big six runs. You look at your sports teacher or friends... Instead, they smile and show you a Thumbs Up."
+    ],
+    "corrective_actions": "Add a dedicated, clear conceptual analogy that compares the gesture to a familiar everyday system to anchor understanding."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "THUMB UPS",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, accurate, and easy to read, but failed the automated check for an explicit relatable analogy due to strict heuristic parsing.",
+    "violating_snippets": [
+      "Think about a green traffic light on a busy street."
+    ],
+    "corrective_actions": "Refine the traffic light analogy section to ensure it is explicitly recognized by structural heuristics as a valid everyday comparison."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "WWE",
+    "failed_checkpoints": [
+      "Covers Key Points"
+    ],
+    "why_it_failed": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+    "violating_snippets": [],
+    "corrective_actions": "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "WWE",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, easy to read, and factually accurate. However, it fails the 'teaches_by_example' checkpoint due to heuristic signal mismatch regarding the everyday analogy.",
+    "violating_snippets": [
+      "Think of WWE like a stage play or a Bollywood action movie."
+    ],
+    "corrective_actions": "Ensure the everyday analogy is clearly formatted and structured to pass automated heuristic detection.; Verify all 6 hard checkpoints pass without conflicting metadata flags."
+  },
+  {
+    "attempt_number": 1,
+    "topic": "WWE",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is clear, well-structured, and easy to read, but failed the rigorous check for a formal relatable analogy according to metadata signals.",
+    "violating_snippets": [],
+    "corrective_actions": "Explicitly include and highlight a relatable everyday analogy to anchor understanding."
+  },
+  {
+    "attempt_number": 2,
+    "topic": "WWE",
+    "failed_checkpoints": [
+      "Teaches by Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, easy to understand, accurate, and follows a logical pedagogical flow with appropriate explanations and a quiz.",
+    "violating_snippets": [],
+    "corrective_actions": ""
+  },
+  {
+    "attempt_number": 1,
+    "topic": "WWE",
+    "failed_checkpoints": [
+      "Teaches By Example"
+    ],
+    "why_it_failed": "The lesson is well-structured, easy to read, and accurate. However, it fails the 'teaches_by_example' checkpoint due to the explicit heuristic check flagging the analogy presence.",
+    "violating_snippets": [
+      "Think about a bollywood masala movie or a stage drama in your town."
+    ],
+    "corrective_actions": "Ensure the everyday analogy is explicitly framed and validated against heuristic requirements."
+  }
+]

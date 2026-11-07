@@ -1,0 +1,762 @@
+{
+  "total_runs": 36,
+  "successful_runs": 33,
+  "failed_runs": 3,
+  "checkpoint_failure_counts": {
+    "accurate_and_grounded": 4,
+    "beginner_friendly_language": 5,
+    "teaches_by_example": 20,
+    "no_unexplained_jargon": 1,
+    "covers_key_points": 9,
+    "coherent_teaching_flow": 5
+  },
+  "recurring_mistakes": [
+    {
+      "timestamp": "2026-11-07T21:05:00.037125",
+      "topic": "bath",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+      "remediations": [
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:05:06.729382",
+      "topic": "bath",
+      "attempt": 1,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is clear, well-structured, and easy to read, but it fails the 'teaches_by_example' checkpoint because it lacks a relatable everyday analogy or comparison.",
+      "remediations": [
+        "Include a clear everyday analogy or comparison (e.g., comparing skin to muddy shoes or sports gear) to satisfy the teaches_by_example requirement."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.080699",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "accurate_and_grounded",
+      "summary": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+      "remediations": [
+        "Clarify that the technique does NOT alter or retrain foundational model weights.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.080699",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "Failed 2 checkpoints: accurate_and_grounded, covers_key_points. Remediation required.",
+      "remediations": [
+        "Clarify that the technique does NOT alter or retrain foundational model weights.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.100842",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "beginner_friendly_language",
+      "summary": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+      "remediations": [
+        "Replace academic math phrases with plain words and keep sentences under 18 words.",
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.",
+        "Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.100842",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+      "remediations": [
+        "Replace academic math phrases with plain words and keep sentences under 18 words.",
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.",
+        "Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.100842",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "no_unexplained_jargon",
+      "summary": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+      "remediations": [
+        "Replace academic math phrases with plain words and keep sentences under 18 words.",
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.",
+        "Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.100842",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+      "remediations": [
+        "Replace academic math phrases with plain words and keep sentences under 18 words.",
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.",
+        "Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.100842",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "coherent_teaching_flow",
+      "summary": "Failed 5 checkpoints: beginner_friendly_language, teaches_by_example, no_unexplained_jargon, covers_key_points, coherent_teaching_flow. Remediation required.",
+      "remediations": [
+        "Replace academic math phrases with plain words and keep sentences under 18 words.",
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Either remove these advanced terms entirely or give an immediate 1-line plain-English translation.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured.",
+        "Structure with Hook -> Problem/Analogy -> 3-step Solution -> Career Value."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.118060",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+      "remediations": [
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.118060",
+      "topic": "Introduction to RAG",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "Failed 2 checkpoints: teaches_by_example, covers_key_points. Remediation required.",
+      "remediations": [
+        "Add a relatable everyday Indian analogy to give the learner a clear mental model.",
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:07:42.302848",
+      "topic": "bath",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is clear, beginner-friendly, accurately grounded, and well-structured, but failed the strict heuristic check for 'teaches_by_example' due to metadata signaling.",
+      "remediations": [
+        "Ensure explicit alignment with heuristic signals regarding analogies."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:11:20.009566",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "accurate_and_grounded",
+      "summary": "The submitted content is not a lesson, but rather an error message stating that the topic is unrecognized. It fails almost all pedagogical checkpoints including accuracy, sentence length limits, use of examples, coverage of key points, and teaching flow.",
+      "remediations": [
+        "Provide an actual educational lesson for a recognized topic.",
+        "Ensure sentences average under 18 words.",
+        "Include a relatable everyday analogy.",
+        "Cover what the topic is, why it matters, and how it works with a clear pedagogical flow."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:11:20.009566",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "beginner_friendly_language",
+      "summary": "The submitted content is not a lesson, but rather an error message stating that the topic is unrecognized. It fails almost all pedagogical checkpoints including accuracy, sentence length limits, use of examples, coverage of key points, and teaching flow.",
+      "remediations": [
+        "Provide an actual educational lesson for a recognized topic.",
+        "Ensure sentences average under 18 words.",
+        "Include a relatable everyday analogy.",
+        "Cover what the topic is, why it matters, and how it works with a clear pedagogical flow."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:11:20.009566",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The submitted content is not a lesson, but rather an error message stating that the topic is unrecognized. It fails almost all pedagogical checkpoints including accuracy, sentence length limits, use of examples, coverage of key points, and teaching flow.",
+      "remediations": [
+        "Provide an actual educational lesson for a recognized topic.",
+        "Ensure sentences average under 18 words.",
+        "Include a relatable everyday analogy.",
+        "Cover what the topic is, why it matters, and how it works with a clear pedagogical flow."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:11:20.009566",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "The submitted content is not a lesson, but rather an error message stating that the topic is unrecognized. It fails almost all pedagogical checkpoints including accuracy, sentence length limits, use of examples, coverage of key points, and teaching flow.",
+      "remediations": [
+        "Provide an actual educational lesson for a recognized topic.",
+        "Ensure sentences average under 18 words.",
+        "Include a relatable everyday analogy.",
+        "Cover what the topic is, why it matters, and how it works with a clear pedagogical flow."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:11:20.009566",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "coherent_teaching_flow",
+      "summary": "The submitted content is not a lesson, but rather an error message stating that the topic is unrecognized. It fails almost all pedagogical checkpoints including accuracy, sentence length limits, use of examples, coverage of key points, and teaching flow.",
+      "remediations": [
+        "Provide an actual educational lesson for a recognized topic.",
+        "Ensure sentences average under 18 words.",
+        "Include a relatable everyday analogy.",
+        "Cover what the topic is, why it matters, and how it works with a clear pedagogical flow."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:16.601225",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "beginner_friendly_language",
+      "summary": "The provided text is an error message for an unrecognized topic rather than an educational lesson. As a result, it fails multiple structural checkpoints including sentence length limits, teaching by example, covering key points, and pedagogical flow.",
+      "remediations": [
+        "Provide a valid educational topic instead of an unrecognized keyword.",
+        "Ensure the average sentence length is strictly under 18 words.",
+        "Include a relatable everyday analogy to anchor understanding.",
+        "Cover What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:16.601225",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The provided text is an error message for an unrecognized topic rather than an educational lesson. As a result, it fails multiple structural checkpoints including sentence length limits, teaching by example, covering key points, and pedagogical flow.",
+      "remediations": [
+        "Provide a valid educational topic instead of an unrecognized keyword.",
+        "Ensure the average sentence length is strictly under 18 words.",
+        "Include a relatable everyday analogy to anchor understanding.",
+        "Cover What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:16.601225",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "The provided text is an error message for an unrecognized topic rather than an educational lesson. As a result, it fails multiple structural checkpoints including sentence length limits, teaching by example, covering key points, and pedagogical flow.",
+      "remediations": [
+        "Provide a valid educational topic instead of an unrecognized keyword.",
+        "Ensure the average sentence length is strictly under 18 words.",
+        "Include a relatable everyday analogy to anchor understanding.",
+        "Cover What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:16.601225",
+      "topic": "TEFFIN",
+      "attempt": 0,
+      "checkpoint": "coherent_teaching_flow",
+      "summary": "The provided text is an error message for an unrecognized topic rather than an educational lesson. As a result, it fails multiple structural checkpoints including sentence length limits, teaching by example, covering key points, and pedagogical flow.",
+      "remediations": [
+        "Provide a valid educational topic instead of an unrecognized keyword.",
+        "Ensure the average sentence length is strictly under 18 words.",
+        "Include a relatable everyday analogy to anchor understanding.",
+        "Cover What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:20.738561",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "accurate_and_grounded",
+      "summary": "The provided text is an error message/refusal rather than an educational lesson, failing multiple structural, length, and content checkpoints.",
+      "remediations": [
+        "Generate actual educational content instead of a refusal message.",
+        "Ensure sentence lengths strictly average under 18 words.",
+        "Include an everyday analogy and cover what it is, why it matters, and how it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:20.738561",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "beginner_friendly_language",
+      "summary": "The provided text is an error message/refusal rather than an educational lesson, failing multiple structural, length, and content checkpoints.",
+      "remediations": [
+        "Generate actual educational content instead of a refusal message.",
+        "Ensure sentence lengths strictly average under 18 words.",
+        "Include an everyday analogy and cover what it is, why it matters, and how it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:20.738561",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The provided text is an error message/refusal rather than an educational lesson, failing multiple structural, length, and content checkpoints.",
+      "remediations": [
+        "Generate actual educational content instead of a refusal message.",
+        "Ensure sentence lengths strictly average under 18 words.",
+        "Include an everyday analogy and cover what it is, why it matters, and how it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:20.738561",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "The provided text is an error message/refusal rather than an educational lesson, failing multiple structural, length, and content checkpoints.",
+      "remediations": [
+        "Generate actual educational content instead of a refusal message.",
+        "Ensure sentence lengths strictly average under 18 words.",
+        "Include an everyday analogy and cover what it is, why it matters, and how it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:20.738561",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "coherent_teaching_flow",
+      "summary": "The provided text is an error message/refusal rather than an educational lesson, failing multiple structural, length, and content checkpoints.",
+      "remediations": [
+        "Generate actual educational content instead of a refusal message.",
+        "Ensure sentence lengths strictly average under 18 words.",
+        "Include an everyday analogy and cover what it is, why it matters, and how it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:12:34.535992",
+      "topic": "COSMO BAZAR",
+      "attempt": 1,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is clear, well-structured, and easy to understand. However, it failed the 'teaches_by_example' checkpoint strictly due to the heuristic signal flag indicating the analogy was not detected as present by the evaluation system.",
+      "remediations": [
+        "Ensure explicit formatting or structural markers are used so that automated heuristic signals correctly recognize the everyday analogy."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:28.331900",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "accurate_and_grounded",
+      "summary": "The provided content is an error message rejecting the input topic rather than an educational lesson, failing multiple structural and pedagogical checkpoints.",
+      "remediations": [
+        "Select a valid educational topic to teach.",
+        "Ensure sentence lengths average under 18 words.",
+        "Incorporate a relatable everyday analogy.",
+        "Cover the core key points: What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:28.331900",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "beginner_friendly_language",
+      "summary": "The provided content is an error message rejecting the input topic rather than an educational lesson, failing multiple structural and pedagogical checkpoints.",
+      "remediations": [
+        "Select a valid educational topic to teach.",
+        "Ensure sentence lengths average under 18 words.",
+        "Incorporate a relatable everyday analogy.",
+        "Cover the core key points: What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:28.331900",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The provided content is an error message rejecting the input topic rather than an educational lesson, failing multiple structural and pedagogical checkpoints.",
+      "remediations": [
+        "Select a valid educational topic to teach.",
+        "Ensure sentence lengths average under 18 words.",
+        "Incorporate a relatable everyday analogy.",
+        "Cover the core key points: What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:28.331900",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "The provided content is an error message rejecting the input topic rather than an educational lesson, failing multiple structural and pedagogical checkpoints.",
+      "remediations": [
+        "Select a valid educational topic to teach.",
+        "Ensure sentence lengths average under 18 words.",
+        "Incorporate a relatable everyday analogy.",
+        "Cover the core key points: What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:28.331900",
+      "topic": "COSMO BAZAR",
+      "attempt": 0,
+      "checkpoint": "coherent_teaching_flow",
+      "summary": "The provided content is an error message rejecting the input topic rather than an educational lesson, failing multiple structural and pedagogical checkpoints.",
+      "remediations": [
+        "Select a valid educational topic to teach.",
+        "Ensure sentence lengths average under 18 words.",
+        "Incorporate a relatable everyday analogy.",
+        "Cover the core key points: What it is, Why it matters, and How it works."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:35.936182",
+      "topic": "COSMO BAZAR",
+      "attempt": 1,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to read, and covers all necessary core sections (What, Why, How). However, it fails the 'teaches_by_example' checkpoint due to the heuristic signal indicating that a robust everyday analogy is not effectively integrated to anchor the concept.",
+      "remediations": [
+        "Integrate a robust, continuous everyday analogy (such as a bustling market or store) to connect the abstract concepts of cosmic matter and energy exchange.",
+        "Ensure the heuristic detection confirms the presence of the analogy to satisfy all strict checkpoints."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:38.269923",
+      "topic": "THUMB UPS",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is clear, well-structured, and easy to read, but it fails the 'teaches_by_example' checkpoint due to conflicting heuristic signals regarding the presence of a formal analogy.",
+      "remediations": [
+        "Re-evaluate the heuristic signal for the analogy check or make the sports day analogy even more explicit and robust.",
+        "Ensure all automated auditing flags are synchronized with the lesson content."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:14:43.335161",
+      "topic": "COSMO BAZAR",
+      "attempt": 2,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-written, concise, and follows proper structural sections with accessible language. However, it fails the strict heuristic evaluation for 'teaches_by_example' due to insufficient functional integration of the analogy.",
+      "remediations": [
+        "Refine the everyday market analogy so it actively reinforces every core concept discussed in the lesson."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:15:22.229646",
+      "topic": "THUMB UPS",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to read, and factually accurate, but it fails the 'teaches_by_example' checkpoint due to lacking a robust structural analogy.",
+      "remediations": [
+        "Add a dedicated, clear conceptual analogy that compares the gesture to a familiar everyday system to anchor understanding."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:15:32.084658",
+      "topic": "THUMB UPS",
+      "attempt": 1,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, accurate, and easy to read, but failed the automated check for an explicit relatable analogy due to strict heuristic parsing.",
+      "remediations": [
+        "Refine the traffic light analogy section to ensure it is explicitly recognized by structural heuristics as a valid everyday comparison."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:15:34.266231",
+      "topic": "WWE",
+      "attempt": 0,
+      "checkpoint": "covers_key_points",
+      "summary": "Failed 1 checkpoints: covers_key_points. Remediation required.",
+      "remediations": [
+        "Ensure the 3 main pillars (What is it, Why it matters, How it works in 3 steps) are explicitly structured."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:15:41.783506",
+      "topic": "WWE",
+      "attempt": 1,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to read, and factually accurate. However, it fails the 'teaches_by_example' checkpoint due to heuristic signal mismatch regarding the everyday analogy.",
+      "remediations": [
+        "Ensure the everyday analogy is clearly formatted and structured to pass automated heuristic detection.",
+        "Verify all 6 hard checkpoints pass without conflicting metadata flags."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T21:15:48.713977",
+      "topic": "WWE",
+      "attempt": 2,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to read, and accurate. However, it fails checkpoint 3 due to a mismatch with heuristic analysis signals regarding the analogy.",
+      "remediations": [
+        "Ensure the everyday analogy is clearly structured and formatted so heuristic signals correctly identify it."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T22:42:59.929466",
+      "topic": "WWE",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is clear, well-structured, and easy to read, but failed the rigorous check for a formal relatable analogy according to metadata signals.",
+      "remediations": [
+        "Explicitly include and highlight a relatable everyday analogy to anchor understanding."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T22:43:08.111970",
+      "topic": "WWE",
+      "attempt": 1,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to understand, accurate, and follows a logical pedagogical flow with appropriate explanations and a quiz.",
+      "remediations": []
+    },
+    {
+      "timestamp": "2026-11-07T22:43:17.532400",
+      "topic": "WWE",
+      "attempt": 2,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to understand, and covers all necessary educational components. However, it fails checkpoint 3 due to a conflict with heuristic evaluation flags indicating the absence of an analogy, even though an explicit school play analogy is present in the text.",
+      "remediations": [
+        "Re-align heuristic evaluation tags to correctly recognize the school play analogy.",
+        "Ensure explicit labeling of analogies to satisfy automated audit tools."
+      ]
+    },
+    {
+      "timestamp": "2026-11-07T23:50:21.014600",
+      "topic": "WWE",
+      "attempt": 0,
+      "checkpoint": "teaches_by_example",
+      "summary": "The lesson is well-structured, easy to read, and accurate. However, it fails the 'teaches_by_example' checkpoint due to the explicit heuristic check flagging the analogy presence.",
+      "remediations": [
+        "Ensure the everyday analogy is explicitly framed and validated against heuristic requirements."
+      ]
+    }
+  ],
+  "learned_guardrails": [
+    "Always use simple everyday words; avoid multi-syllable academic phrasing.",
+    "Translate any technical or scientific term into plain English in parentheses before continuing.",
+    "Use a relatable everyday analogy that naturally fits the specific topic.",
+    "Keep sentences strictly under 18 words on average for accessible 12th-grade reading level.",
+    "Ground all explanations in true real-world facts without hallucinations (for AI topics like RAG, state that it does not retrain model weights).",
+    "STRICT SHARPENED GUARDRAIL (From Memory): Dedicate an entire early section to a relatable everyday analogy (such as school exams, kitchen cooking, sports, or nature) to anchor the concept before touching complex details.",
+    "STRICT SHARPENED GUARDRAIL (From Memory): Ground all explanations in true real-world facts without hallucinations (for AI topics like RAG, explicitly state that it does NOT retrain or alter model weights; for everyday topics, stick purely to authentic real-world facts).",
+    "STRICT SHARPENED GUARDRAIL (From Memory): Never introduce technical or scientific jargon without an immediate, simple 1-sentence plain-English translation before continuing.",
+    "STRICT SHARPENED GUARDRAIL (From Memory): Keep sentences strictly under 18 words. Write as if explaining to a 12th-grade friend who studied in Hindi/regional medium."
+  ],
+  "runs": [
+    {
+      "timestamp": "2026-11-07T21:05:12.894007",
+      "topic": "bath",
+      "passed": true,
+      "iterations_required": 3
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.098130",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.114934",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.130746",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.134690",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T21:06:57.136808",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T21:07:51.210405",
+      "topic": "bath",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:07:58.750616",
+      "topic": "apple",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T21:09:36.513077",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T21:11:01.132078",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T21:11:03.349674",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T21:11:28.981480",
+      "topic": "TEFFIN",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:12:26.260072",
+      "topic": "TEFFIN",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:12:41.978769",
+      "topic": "COSMO BAZAR",
+      "passed": true,
+      "iterations_required": 3
+    },
+    {
+      "timestamp": "2026-11-07T21:14:43.339009",
+      "topic": "COSMO BAZAR",
+      "passed": false,
+      "iterations_required": 3
+    },
+    {
+      "timestamp": "2026-11-07T21:14:45.724830",
+      "topic": "THUMB UPS",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T21:15:40.023942",
+      "topic": "THUMB UPS",
+      "passed": true,
+      "iterations_required": 3
+    },
+    {
+      "timestamp": "2026-11-07T21:15:48.713977",
+      "topic": "WWE",
+      "passed": false,
+      "iterations_required": 3
+    },
+    {
+      "timestamp": "2026-11-07T22:02:46.046743",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:04:43.710609",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:30:35.749937",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:32:46.826966",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:38:03.068771",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:40:11.877123",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:42:40.252350",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T22:43:17.538458",
+      "topic": "WWE",
+      "passed": false,
+      "iterations_required": 3
+    },
+    {
+      "timestamp": "2026-11-07T23:06:23.284296",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:35:51.752198",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:38:09.284043",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:38:11.835389",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:42:02.911223",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:44:07.822634",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:44:10.186590",
+      "topic": "Introduction to RAG",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:49:10.018276",
+      "topic": "WWE",
+      "passed": true,
+      "iterations_required": 1
+    },
+    {
+      "timestamp": "2026-11-07T23:50:29.209590",
+      "topic": "WWE",
+      "passed": true,
+      "iterations_required": 2
+    },
+    {
+      "timestamp": "2026-11-07T23:50:31.673890",
+      "topic": "WATER BOTTLE IN FIRE",
+      "passed": true,
+      "iterations_required": 1
+    }
+  ]
+}

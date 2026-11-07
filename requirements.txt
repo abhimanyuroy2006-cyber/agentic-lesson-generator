@@ -1,0 +1,18 @@
+# Core Framework & Agent Orchestration
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-openai>=0.2.0
+pydantic>=2.7.0
+
+# LLM Providers (Native SDKs)
+google-genai>=1.0.0
+openai>=1.40.0
+
+# User Interfaces & Utilities
+streamlit>=1.35.0
+rich>=13.7.0
+python-dotenv>=1.0.1
+
+# Testing & Quality Assurance
+pytest>=8.0.0
